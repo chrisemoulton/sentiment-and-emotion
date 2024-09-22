@@ -4,7 +4,7 @@
   "description": "AlchemyAPI's Sentiment Analysis and Emotion Analysis in one application.",
   "dependencies": {
     "bluebird": "^3.3.1",
-    "body-parser": "~1.13.2",
+    "body-parser": "~1.20.3",
     "cookie-parser": "^1.4.1",
     "csurf": "^1.8.3",
     "errorhandler": "~1.4.1",
